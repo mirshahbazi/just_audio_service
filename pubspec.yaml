@@ -1,0 +1,28 @@
+name: just_audio_service
+description: A new Flutter package project.
+version: 0.0.1
+author: Mohammad Ali Mirshahbazi
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audio_service: ^0.15.0
+  audio_session: ^0.0.7
+  just_audio: ^0.5.2
+  rxdart: ^0.24.1
+  hive: ^1.4.4
+  path_provider: ^1.4.0
+  dart_extensions: ^1.0.2
+  flutter_downloader: ^1.5.2
+  slugify: ^1.0.0
+  path: ^1.7.0
+  
+dev_dependencies:
+    build_runner: ^1.10.0
+    hive_generator: ^0.8.1
+
+flutter:
+
